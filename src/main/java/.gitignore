@@ -1,0 +1,102 @@
+##############################
+## Java## Java
+##############################
+.mtj.tmp/
+*.class*.sınıf
+*.jar*.kavanoz
+*.war*.idi
+*.ear*.kulak
+*.nar*.nar
+hs_err_pid*hs_err_pid*
+replay_pid*replay_pid*
+
+##############################
+## Maven## Usta
+##############################
+target/hedef/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+buildNumber.properties
+.mvn/timing.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+.mvn/sarmalayıcı/maven-wrapper.jar
+
+##############################
+## Gradle## Gradle
+##############################
+bin/bin/
+build/yapmak/
+.gradle.gradle
+.gradletasknamecache
+.gradletasknamecache
+gradle-app.setting
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.jar
+
+##############################
+## IntelliJ## IntelliJ
+##############################
+out/dışarıya/
+.idea/.fikir/
+.idea_modules/.idea_modules/
+*.iml*.iml
+*.ipr*.ipr
+*.iws*.ıws
+
+##############################
+## Eclipse## Tutulma
+##############################
+.settings/.Ayarlar/
+bin/bin/
+tmp/Tmp/
+.metadata.metadata (İngilizce)
+.classpath.sınıf yolu
+.project.proje
+*.tmp*.Tmp
+*.bak*.bak
+*.swp*.swp
+*~.nib*~.Nıb
+local.properties
+local.properties
+.loadpath.loadpath
+.factorypath.fabrika yolu
+
+##############################
+## NetBeans## Net Fasulye
+##############################
+nbproject/private/
+nbproject/özel/
+build/yapmak/
+nbbuild/nbbuild/
+dist/Dağıtım/
+nbdist/nbdist/
+nbactions.xml
+nb-configuration.xml
+
+##############################
+## Visual Studio Code
+## Görsel Stüdyo Kodu
+##############################
+.vscode/.vscode/
+.code-workspace.code-workspace
+
+##############################
+## OS X
+## OS X
+##############################
+.DS_Store.DS_Store
+
+##############################
+## Miscellaneous
+## Çeşitli
+##############################
+*.log*.kütük
