@@ -13,8 +13,10 @@ public class Runner {
 
         System.out.println("masterda commit");
 
-        //remoteda commit
 
+
+        //remoteda commit
+        System.out.println("dev1 nin taski cozuldu");
 
 
 
