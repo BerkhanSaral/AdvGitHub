@@ -11,10 +11,14 @@ public class Runner {
         System.out.println("berkhan 3");
 
 
+        System.out.println("masterda commit");
+
+
 
         //remoteda commit
-
-        //dev 2 nin commiti
+        System.out.println("dev1 nin taski cozuldu");
+        
+      //dev 2 nin commiti
 
 
 
