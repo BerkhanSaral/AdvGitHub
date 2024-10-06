@@ -4,6 +4,7 @@ public class Runner {
         System.out.println("Commit 3");
 
         System.out.println("techpro 1");
+        System.out.println("techpro 2");
     }
 
 }
