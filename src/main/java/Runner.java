@@ -17,6 +17,9 @@ public class Runner {
 
         //remoteda commit
         System.out.println("dev1 nin taski cozuldu");
+        
+      //dev 2 nin commiti
+
 
 
 
